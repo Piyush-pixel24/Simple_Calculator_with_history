@@ -6,7 +6,7 @@ Perform calculations <br>
 View previous results <br>
 Clear saved history <br>
 
-Features
+# Features:- <br>
 ➕ Addition, ➖ Subtraction, ✖️ Multiplication, ➗ Division <br>
 📜 View calculation history <br>
 🗑️ Clear history <br>
