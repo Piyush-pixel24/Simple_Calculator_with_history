@@ -2,6 +2,13 @@ This is a command-line calculator built using Python that performs basic arithme
 
 It allows users to:
 
-Perform calculations
-View previous results
-Clear saved history
+Perform calculations <br>
+View previous results <br>
+Clear saved history <br>
+
+Features
+➕ Addition, ➖ Subtraction, ✖️ Multiplication, ➗ Division <br>
+📜 View calculation history <br>
+🗑️ Clear history <br>
+💾 Stores history in a file (history.txt) <br>
+⚠️ Error handling (invalid input, divide by zero)
